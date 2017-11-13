@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test>
+	<book id="1">
+		<book_name>三国演义</book_name>
+		<book_author>罗贯中</book_author>
+		<book_price>23</book_price>
+	</book>
+	<book id="2">
+		<book_name>水浒传</book_name>
+		<book_author>施耐庵</book_author>
+		<book_price>44</book_price>
+	</book>
+	<book id="3">
+		<book_name>西游记</book_name>
+		<book_author>吴承恩</book_author>
+		<book_price>33</book_price>
+	</book>
+	<book id="4">
+		<book_name>红楼梦</book_name>
+		<book_author>曹雪芹</book_author>
+		<book_price>18</book_price>
+	</book>
+</test>
